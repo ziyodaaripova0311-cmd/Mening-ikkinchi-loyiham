@@ -1,6 +1,5 @@
-#Maqsad
-Github programmasidan foydalanish
+#Maqsad Github programmasidan foydalanish
 
-#Muallif
-
+#Muallif  
 aribova Ziyoda
+
