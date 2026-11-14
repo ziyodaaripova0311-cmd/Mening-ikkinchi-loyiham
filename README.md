@@ -1,2 +1,4 @@
-# Mening-ikkinchi-loyiham
-readme.md
+#maqsad
+github programmasidan foydalanishni o'rganish
+##muallif
+Aribova Ziyoda
