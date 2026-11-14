@@ -1,4 +1,6 @@
-#maqsad
-github programmasidan foydalanishni o'rganish
-##muallif
-Aribova Ziyoda
+#Maqsad
+Github programmasidan foydalanish
+
+#Muallif
+
+aribova Ziyoda
